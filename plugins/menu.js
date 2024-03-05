@@ -160,7 +160,6 @@ renderLargerThumbnail: true
 handler.help = ['menu']
 handler.tags = ['infobot']
 handler.command = ['menu','b','list'] 
-handler.register = false
 handler.register = true
 
 export default handler
