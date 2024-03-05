@@ -161,7 +161,7 @@ handler.help = ['menu']
 handler.tags = ['infobot']
 handler.command = ['menu','b','list'] 
 handler.register = true
-
+handler.register = true
 
 export default handler
 
