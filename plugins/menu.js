@@ -29,7 +29,7 @@ const defaultMenu = {
 ⏰ *Uptime:* %muptime  
 ┗━━━━━━━━━━⬣
 %readmore
-  ≡ *𝐁 𝐓 𝐈 𝐊 𝐀 𝐋 | 𝐌 𝐄 𝐍 𝐔*
+  ≡ *𝐁 𝐎 𝐓 𝐈 𝐊 𝐀 𝐋 | 𝐌 𝐄 𝐍 𝐔*
 `.trimStart(),
   header: '┏━━⊜ *_%category_* ',
   body: '┃⋄ %cmd %isdiamond %isPremium',
