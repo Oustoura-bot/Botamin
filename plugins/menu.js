@@ -140,7 +140,7 @@ externalAdReply: {
 title: '𝐁𝐎𝐓𝐈𝐊𝐀𝐋 𝐁𝐎𝐓 ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
 thumbnailUrl: 'https://telegra.ph/file/967758a5b31d49184218f.jpg',
-sourceUrl: 'https://chat.whatsapp.com/D78kvVCIBEQ6mhiz52zgAa',
+sourceUrl: 'https://chat.whatsapp.com/JjND5KtZkFFHFq4s5L6L4R',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
