@@ -160,8 +160,6 @@ renderLargerThumbnail: true
 handler.help = ['menu']
 handler.tags = ['infobot']
 handler.command = ['menu','b','list'] 
-handler.register = true
-
 export default handler
 
 const more = String.fromCharCode(8206)
