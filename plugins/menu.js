@@ -1,4 +1,3 @@
-
 //import db from  ../lib/database.js 
 import { promises } from  fs 
 import { join } from  path 
@@ -273,8 +272,8 @@ contextInfo: {
 externalAdReply: {
 title:  ♥♥♥ ,
 body: "",
-thumbnailUrl:  https://telegra.ph/file/27dfe370c433f44c5ad4c.jpg ,
-sourceUrl:  instagram.com/noureddine_ouafy ,
+thumbnailUrl:  'https://telegra.ph/file/27dfe370c433f44c5ad4c.jpg' ,
+sourceUrl:  'instagram.com/noureddine_ouafy',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
@@ -290,10 +289,9 @@ renderLargerThumbnail: true
     throw e
   }
 }
-handler.help = [ help ]
-handler.tags = [ main ]
-handler.command = [ all , allmenu ] 
-
+handler.help = ['help']
+handler.tags = ['main']
+handler.command = ['all'|'menu'|'allmenu'] 
 export default handler
 
 const more = String.fromCharCode(8206)
