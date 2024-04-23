@@ -50,7 +50,7 @@ ${wait}
                                     mediaUrl: inputs,
                                     renderLargerThumbnail: true,
                                     showAdAttribution: true,
-                                    sourceId: "B O B I Z A",
+                                    sourceId: "B O T I k A l",
                                     sourceType: "PDF",
                                     previewType: "PDF",
                                     sourceUrl: inputs,
@@ -236,7 +236,6 @@ ${wait}
 handler.help = ["mediafire1"];
 handler.tags = ["downloader"];
 handler.command = /^mediafire1$/i;
-handler.premium = true
 export default handler;
 
 async function mediafireDl(url) {
