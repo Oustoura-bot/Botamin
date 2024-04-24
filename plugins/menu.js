@@ -1,9 +1,9 @@
 //import db from  ../lib/database.js 
-import { promises } from 'fs' 
-import { join } from 'path' 
-import fetch from  'node-fetch' 
+import { promises } from fs
+import { join } from path
+import fetch from  node-fetch 
 import { xpRange } from  ../lib/levelling.js 
-import { plugins } from  ../lib/plugins.js 
+//import { plugins } from  ../lib/plugins.js 
 let tags = {
   
 }
@@ -291,7 +291,7 @@ renderLargerThumbnail: true
 }
 handler.help = ['help']
 handler.tags = ['main']
-handler.command = ['all'|'menu'|'allmenu'] 
+handler.command = [all|menu|allmenu] 
 export default handler
 
 const more = String.fromCharCode(8206)
