@@ -289,9 +289,9 @@ renderLargerThumbnail: true
     throw e
   }
 }
-handler.help = [ help ]
-handler.tags = [ main ]
-handler.command = [ all , allmenu ] 
+handler.help = ['help']
+handler.tags = ['main']
+handler.command = ['all,allmenu'] 
 
 export default handler
 
