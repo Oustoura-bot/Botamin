@@ -39,6 +39,7 @@
     "awesome-phonenumber": "^2.68.0",
     "../lib/database.js":"*",
     "../lib/levelling.js":"*",
+    "../lib/plugins.js":"*",
     "axios": "^1.1.3",
     "body-parser": "^1.20.2",
     "cfonts": "^2.10.0",
