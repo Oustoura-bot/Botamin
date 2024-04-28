@@ -137,8 +137,8 @@ text: text,
 contextInfo: {
 externalAdReply: {
 title: '𝘽ِ𝗢𝗧𝗶𝙆َ𝘼𝗟ِ 𝘽ِ𝗢𝗧 ♥',
-body: "🤩آقـؤي بؤت فـي آلمجآل",
-thumbnailUrl: 'https://telegra.ph/file/2829c7653514416d207e2.jpg',
+body: "🤩اقوى بوت في العالم العربي",
+thumbnailUrl: 'https://telegra.ph/file/967758a5b31d49184218f.jpg',
 sourceUrl: 'https://chat.whatsapp.com/L278NetJqjm0ULHIEw7oeN',
 mediaType: 1,
 renderLargerThumbnail: true
