@@ -28,7 +28,7 @@ const defaultMenu = {
 ⏰ *Uptime:* %muptime  
 ┗━━━━━━━━━━⬣
 %readmore
-  ≡ * | M E N U*
+  ≡ *𝘽ِ 𝗢 𝗧 𝗶 𝙆َ 𝘼 𝗟ِ 𝘽ِ𝗢𝗧 | 𝗠ِ 𝗘 𝙉ِ 𝙐*
 `.trimStart(),
   header: '┏━━⊜ *_%category_* ',
   body: '┃⋄ %cmd %isdiamond %isPremium',
@@ -136,10 +136,10 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'BOBIZA BOT ♥',
-body: "آقـؤي بؤت فـي آلمجآل",
+title: '𝘽ِ𝗢𝗧𝗶𝙆َ𝘼𝗟ِ 𝘽ِ𝗢𝗧 ♥',
+body: "🤩آقـؤي بؤت فـي آلمجآل",
 thumbnailUrl: 'https://telegra.ph/file/2829c7653514416d207e2.jpg',
-sourceUrl: 'https://instagram.com/noureddine_ouafy',
+sourceUrl: 'https://chat.whatsapp.com/L278NetJqjm0ULHIEw7oeN',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
