@@ -116,8 +116,8 @@ const handler = async (m, {
     }
 };
 
-handler.help = ['facebook3'];
+handler.help = ['facebook3','fb3'];
 handler.tags = ['downloader'];
-handler.command = /^facebook3$/i;
+handler.command = /^facebook3,fb3$/i;
 
 export default handler;
