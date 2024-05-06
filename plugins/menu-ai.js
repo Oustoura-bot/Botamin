@@ -179,8 +179,8 @@ let tags = {
 	externalAdReply: {
 	title: 'قسم خاص   بالذكـاء الاصطــناعـي ',
 	body: 'اليك الاوامر الخاصة بهذا القسم',
-	thumbnailUrl: 'https://telegra.ph/file/22455a32e324068fa1922.jpg',
-	sourceUrl: 'instagram.com/noureddine_ouafy',
+	thumbnailUrl: 'https://telegra.ph/file/967758a5b31d49184218f.jpg',
+	sourceUrl: 'https://chat.whatsapp.com/L278NetJqjm0ULHIEw7oeN',
 	mediaType: 1,
 	renderLargerThumbnail: true
 	}}})
